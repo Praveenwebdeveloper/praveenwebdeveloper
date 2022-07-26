@@ -8,10 +8,13 @@ The crossover between design and programming has always been of interest to me, 
 ![Visitor Count](https://profile-counter.glitch.me/Praveenwebdeveloper/count.svg)
 
 <div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Praveenwebdeveloper&column=7"/>
-  </a>
+  <h4>My Current Project</h4>
+ https://dgt.gov.in/ (Drupal Platform Maintenance from my side)
+https://bharatskills.gov.in/ (.Net Platform)
+https://bharatskills.gov.in/dashboard (.Net Platform)
+https://dgt.gov.in/appmela2022/ (core php)
+https://dgt.gov.in/servicedesk/users/ (corephp)
+  
 </div>
 
 Languages and Tools: 
