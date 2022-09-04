@@ -1,7 +1,7 @@
 ### Hello About Me 👋
 
 I'm
-UI/UX Designer Cum Core Php Developer
+Frontend Developer Cum Core Php Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (PHP, Mysqli), design (working closely with designers), front-end development (React,ReactJs, HTML5, CSS3, Bootstrap, Photoshop, Javascript, Responsive, UX),database(Mysql).
 
 
