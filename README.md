@@ -9,12 +9,16 @@ The crossover between design and programming has always been of interest to me, 
 
 <div>
   <h4>My Current Project</h4><br>
- https://dgt.gov.in/ (Drupal Platform Maintenance from my side)<br>
+https://dgt.gov.in/ (Drupal Platform)<br>
 https://bharatskills.gov.in/ (.Net Platform)<br>
 https://bharatskills.gov.in/dashboard (.Net Platform)<br>
-https://dgt.gov.in/appmela2022/ (core php)<br>
-https://dgt.gov.in/servicedesk/users/ (corephp)
-  
+https://fleximou.dgt.gov.in/ (core php)<br>
+https://dgt.gov.in/servicedesk/ (corephp)
+http://164.100.117.165/strive_portal/
+http://164.100.117.165/nsti/
+http://164.100.117.165/itiadmission/upload_excel_file.php
+https://dgt.gov.in/award/
+https://dgt.gov.in/kds/  
 </div>
 
 Languages and Tools: 
