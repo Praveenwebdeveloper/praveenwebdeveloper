@@ -1,7 +1,7 @@
 ### Hello About Me 👋
 
 I'm
-Frontend Developer Cum Core Php Developer
+Frontend Developer Cum Backned Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Core PHP, Mysqli), design (working closely with designers), front-end development (ReactJs, HTML5, CSS3, Bootstrap, Photoshop, Javascript, Responsive, UX),database(Mysql).
 
 
